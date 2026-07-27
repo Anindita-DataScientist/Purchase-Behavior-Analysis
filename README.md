@@ -1,4 +1,5 @@
 Business Intelligence & Purchase Behavior Analysis
+
 📊 Overview-
 This project demonstrates an end-to-end Business Intelligence workflow, transforming raw retail customer data into actionable business insights. The analysis covers data preprocessing, exploratory data analysis (EDA), SQL-based business queries, interactive dashboard development, and executive reporting.
 
