@@ -89,7 +89,7 @@ Most customers were non-subscribers.
 Purchase behavior varied across product categories and age groups.
 Interactive filtering enables detailed business analysis across multiple dimensions.
 
-
+<img width="374" height="226" alt="image" src="https://github.com/user-attachments/assets/1e6e388a-14aa-4320-a57c-9641ea047a0f" />
 
 📂 Project Structure
 Business-Intelligence-Purchase-Behavior-Analysis/
