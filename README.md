@@ -5,28 +5,6 @@ This project demonstrates an end-to-end Business Intelligence workflow, transfor
 
 The objective is to analyze customer purchasing behavior, identify sales trends, understand customer demographics, and build an interactive dashboard that supports data-driven business decisions.
 
-📁 Dataset
-
-The dataset contains customer shopping transactions with information such as:
-
-Customer ID
-Age
-Gender
-Item Purchased
-Category
-Purchase Amount (USD)
-Location
-Size
-Color
-Season
-Review Rating
-Subscription Status
-Shipping Type
-Discount Applied
-Promo Code Used
-Payment Method
-Frequency of Purchases
-
 🛠️ Tools & Technologies-
 Python-	Data loading, preprocessing, EDA
 Pandas-	Data cleaning and manipulation
